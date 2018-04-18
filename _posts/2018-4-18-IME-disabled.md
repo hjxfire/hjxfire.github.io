@@ -8,7 +8,7 @@ author: hjxfire
 
 * content
 {:toc}
-有时在Win10下会突然输不了中文,右下角提示IME已禁用的情况,一下为解决方法.
+有时在Win10下会出现突然输不了中文,右下角提示IME已禁用的情况,以下为解决方法.
 ```
     1. 	右击此电脑->管理->任务计划程序->Microsoft->Windows->TextServicesFramwork.
     2. 在右边,MsCtrMonitor右击,运行.
