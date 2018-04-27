@@ -27,4 +27,4 @@ author: hjxfire
 4. 此时再去使用该样式,就会发现前面的小黑点不见了.
 ![acatar](/pic/2018042701/6.png)
 <hr style="background-color: rgb(25, 172, 230);height: 1px;">
-Windows下的修改同理,只是有选项位置有些许不同,但修改内容相同.
+Windows下的修改同理,只是选项位置有些许不同,但修改内容相同.
