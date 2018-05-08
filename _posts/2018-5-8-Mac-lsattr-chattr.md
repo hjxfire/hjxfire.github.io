@@ -27,7 +27,7 @@ $ ls -lO autorun.inf
 uchg就是该文件的隐藏属性
 
 ## chattr
-可使用chflags 替代,想要删除A属性,只需要写chflags noA filename 即可
+可使用chflags 替代,想要删除A属性,只需要写chflags noA filename 即可  
 效果:
 ```
 $ chflags nouchg autorun.inf
