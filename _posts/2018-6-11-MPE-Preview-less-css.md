@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "VSCode中Markdown Preview Enhanced的预览样式设置(MAC下)"
+title:  "VSCode中Markdown Preview Enhanced的预览样式设置(Mac下)"
 categories: VSCode
-tags:  VSCode MPE-Preview Markdown MAC
+tags:  VSCode MPE-Preview Markdown Mac
 author: hjxfire
 ---
 
