@@ -20,7 +20,7 @@ docker: Error response from daemon: OCI runtime create failed: container_linux.g
 
 ## 问题命令
 ```
-docker run hjxfire/struts2.5.16 --name struts2 -p 5000:8080
+docker run hjxfire/struts2.5.16 --name struts2 -p 5000:8080 -d
 ```
 ## 报错信息
 ```
@@ -29,5 +29,5 @@ docker: Error response from daemon: OCI runtime create failed: container_linux.g
 
 ## 正确命令
 ```
-docker run  --name struts2 -p 5000:8080 hjxfire/struts2.5.16
+docker run  --name struts2 -p 5000:8080 -d hjxfire/struts2.5.16
 ```
